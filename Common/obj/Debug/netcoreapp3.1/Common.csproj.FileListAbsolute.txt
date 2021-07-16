@@ -1,0 +1,10 @@
+C:\Users\xyy\Desktop\NlogDemo\Common\bin\Debug\netcoreapp3.1\NLog.config
+C:\Users\xyy\Desktop\NlogDemo\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\xyy\Desktop\NlogDemo\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\xyy\Desktop\NlogDemo\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\xyy\Desktop\NlogDemo\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+C:\Users\xyy\Desktop\NlogDemo\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\xyy\Desktop\NlogDemo\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\xyy\Desktop\NlogDemo\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\xyy\Desktop\NlogDemo\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\xyy\Desktop\NlogDemo\Common\obj\Debug\netcoreapp3.1\Common.pdb
